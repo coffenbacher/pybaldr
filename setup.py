@@ -7,10 +7,6 @@ setup(name='pybaldr',
       author='coffenbacher',
       license='MIT',
       packages=['pybaldr',],
-      install_requires=[
-          #'beautifulsoup4',
-      ],
-      dependency_links=[
-            #https://github.com/laurentb/weboob/
-      ],
+      install_requires=[],
+      dependency_links=[],
       zip_safe=False)
