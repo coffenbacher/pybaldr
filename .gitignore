@@ -1,0 +1,14 @@
+*.pyc
+*.log
+*.sqlite3
+venv
+*.swp
+*.shell_history
+*.db
+*.xml
+.env
+.idea
+build
+src
+dist
+*.egg-info
